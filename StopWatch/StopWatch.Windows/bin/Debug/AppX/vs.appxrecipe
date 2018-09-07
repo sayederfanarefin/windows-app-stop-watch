@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SPACESTATION</Machine>
+    <WindowsUser>Erfan</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>21d16bca-c739-487e-a33e-51dbf4c501aa</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>35D3ED4233B183A2AA441CC3E4112EA62A1870F2AD1D4FC21FCE74AD118C7D25</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>21d16bca-c739-487e-a33e-51dbf4c501aa_1.0.0.0_neutral__esdrc7g6cd7xc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>21d16bca-c739-487e-a33e-51dbf4c501aa_esdrc7g6cd7xc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>21d16bca-c739-487e-a33e-51dbf4c501aa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Erfan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-09-27T05:09:55.526</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\StopWatch.Windows.exe">
+      <PackagePath>StopWatch.Windows.exe</PackagePath>
+      <Modified>2014-09-27T05:09:54.417</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T04:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-09-27T05:09:53.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\firstPage.xbf">
+      <PackagePath>firstPage.xbf</PackagePath>
+      <Modified>2014-09-27T05:09:53.697</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-09-27T05:09:53.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\StopWatch.Windows.xr.xml">
+      <PackagePath>StopWatch.Windows.xr.xml</PackagePath>
+      <Modified>2014-09-27T05:09:53.465</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Erfan\SkyDrive\app development\stop watch\StopWatch\StopWatch\StopWatch.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-09-27T05:09:54.875</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
